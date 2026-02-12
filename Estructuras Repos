@@ -1,0 +1,17 @@
+Repositorios de servidores Linux
+
+Al momento de descargar de los repos 
+
+Ubicación: /etc/yum.repos.d/ 
+el servidor debe tener 3 repos 
+
+nexus-repository.repo 
+
+scanntech-ol9.repo 
+
+zabbix-tools.repo 
+
+ 
+
+*Si cuenta con más repos, se deben borrar,  
+  Buscan fuera los paquetes, como no tienen salida nos va a generar time out. 
